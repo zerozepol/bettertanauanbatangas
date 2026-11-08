@@ -10,7 +10,7 @@ No package installation is required. Build using `node build.mjs`, then run `pyt
 
 This is an independent repository, with its own initial commit, source, LGU data and build. No dependency on the previous shared portal or another LGU repository. Relative asset paths support both domain-root and subpath hosting.
 
-Six sections follow the [BetterGov LGU guide](https://lgu.bettergov.ph/GUIDE): offices/services, barangays, officials, budget/expenditure sources, project records and ordinance archive. The visual system derives from our earlier Bayan Portal implementation; no third-party template code is included.
+Six sections follow the [BetterGov LGU guide](https://lgu.bettergov.ph/GUIDE): offices/services, barangays, officials, budget/expenditure sources, project records and ordinance archive. Adapted from the BetterSolano static HTML template. Upstream styles and component structures are retained, with LGU-specific content and the sourced directory behavior. See TEMPLATE.md and LICENSES/BetterSolano.txt for provenance and license details.
 
 ## Data
 
@@ -36,3 +36,6 @@ Build output is `dist/`, suitable for static hosting. This repository has no hos
 - https://tanauancity.gov.ph/government/citizens-charter
 - https://tanauancity.gov.ph/government/departments/mayors-office
 - https://tanauancity.gov.ph/news/-2025-
+
+## Template
+[BetterSolano](https://github.com/BetterSolano/bettersolano), static main branch, adapted with attribution. See TEMPLATE.md for the pinned commit and exact changes. The existing LGU data and Git history are preserved.

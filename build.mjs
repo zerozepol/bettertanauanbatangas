@@ -1,1 +1,1 @@
-import {mkdir,copyFile,readdir} from 'node:fs/promises';await mkdir('dist',{recursive:true});for(const name of await readdir('src'))await copyFile('src/'+name,'dist/'+name);console.log('Built Better Tanauan');
+import {mkdir,cp,rm} from 'node:fs/promises';await rm('dist',{recursive:true,force:true});await mkdir('dist',{recursive:true});await cp('src','dist',{recursive:true});console.log('Built Better Tanauan from BetterSolano static adaptation');
