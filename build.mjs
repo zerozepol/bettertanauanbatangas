@@ -1,0 +1,1 @@
+import {mkdir,copyFile,readdir} from 'node:fs/promises';await mkdir('dist',{recursive:true});for(const name of await readdir('src'))await copyFile('src/'+name,'dist/'+name);console.log('Built Better Tanauan');
