@@ -9,8 +9,8 @@
     "phone": "+63437289800",
     "email": "",
     "note": "Magkakaiba ang address sa ilang city pages. Kumpirmahin ang lokasyon ng tanggapan bago bumiyahe.",
-    "address": "",
-    "reviewed": "2026-11-08",
+    "address": "City Hall, J.P. Laurel Highway, Tanauan City, Batangas 4232",
+    "reviewed": "2026-11-09",
     "kind": "office"
   },
   {
@@ -48,12 +48,14 @@
     "category": "Serbisyong panlipunan",
     "description": "Opisyal na GAD portal ng Tanauan para sa impormasyon at mga programa.",
     "source": "https://gad.tanauancity.gov.ph/",
-    "phone": "",
-    "email": "",
-    "note": "Wala pang nakumpirmang direktang telepono sa directory na ito.",
-    "address": "",
-    "reviewed": "2026-11-08",
-    "kind": "office"
+    "phone": "+63437289800",
+    "email": "gad@tanauancity.gov.ph",
+    "note": "Schedule at extension ayon sa official GAD office site. Hindi municipality-wide schedule; kumpirmahin muna bago bumisita.",
+    "address": "Laurel Hill, Barangay Natatas, Tanauan City, Batangas 4232",
+    "reviewed": "2026-11-09",
+    "kind": "office",
+    "phoneExtension": "1165",
+    "officeHours": "Lunes–Biyernes, 8:00 AM–5:00 PM; sarado sa weekends at public holidays"
   },
   {
     "id": 57,
@@ -822,5 +824,122 @@
     "email": "",
     "address": "",
     "reviewed": "2026-11-08"
+  },
+  {
+    "id": 122,
+    "lgu": "tn",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Source: Bureau of Local Government Finance. FY2025 preliminary, extracted 3 March 2026. Figures from the exact LGU/province/type row, rounded to two decimals in PHP million. LGU reports through BLGF LIFT; hindi audit opinion. Operating at non-operating expenditures ay magkaibang sukatan. Hindi ito current annual appropriation o FY2026 actual spending.",
+    "name": "BLGF Statement of Receipts and Expenditures — FY2025 Preliminary",
+    "kind": "budget",
+    "category": "Reported actual receipts and expenditures",
+    "period": "FY2025 · Preliminary",
+    "description": "Current operating income: ₱3,102.07 milyon; current operating expenditures: ₱2,029.89 milyon.",
+    "source": "https://blgf.gov.ph/lgu-fiscal-data/",
+    "documentUrl": "https://blgf.gov.ph/wp-content/uploads/2026/05/By-LGU-SRE-2025.xlsx",
+    "metrics": [
+      {
+        "label": "Local-source income",
+        "value": "₱1,671.42 milyon"
+      },
+      {
+        "label": "External-source income",
+        "value": "₱1,430.64 milyon"
+      },
+      {
+        "label": "Total current operating income",
+        "value": "₱3,102.07 milyon"
+      },
+      {
+        "label": "Total current operating expenditures",
+        "value": "₱2,029.89 milyon"
+      },
+      {
+        "label": "Net operating income",
+        "value": "₱1,072.17 milyon"
+      },
+      {
+        "label": "Capital/investment expenditures",
+        "value": "₱409.78 milyon"
+      },
+      {
+        "label": "Total non-operating expenditures",
+        "value": "₱425.38 milyon"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "lgu": "tn",
+    "phone": "+63437288001",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Hindi pa nasubukang tawagan; hindi ipinapalagay ang hours o direct desk location.",
+    "name": "Tanauan Police hotline",
+    "kind": "office",
+    "category": "Emergency hotline",
+    "description": "Hotline na nakalista sa official City Government of Tanauan website.",
+    "source": "https://tanauancity.gov.ph/"
+  },
+  {
+    "id": 124,
+    "lgu": "tn",
+    "phone": "+63437288002",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Hindi pa nasubukang tawagan; hindi ipinapalagay ang hours o direct desk location.",
+    "name": "Tanauan Fire hotline",
+    "kind": "office",
+    "category": "Emergency hotline",
+    "description": "Hotline na nakalista sa official City Government of Tanauan website.",
+    "source": "https://tanauancity.gov.ph/"
+  },
+  {
+    "id": 125,
+    "lgu": "tn",
+    "phone": "+63437288003",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Hindi pa nasubukang tawagan; hindi ipinapalagay ang hours o direct desk location.",
+    "name": "Tanauan Ambulance / Medical hotline",
+    "kind": "office",
+    "category": "Emergency hotline",
+    "description": "Hotline na nakalista sa official City Government of Tanauan website.",
+    "source": "https://tanauancity.gov.ph/"
+  },
+  {
+    "id": 126,
+    "lgu": "tn",
+    "phone": "+63437288004",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Hindi pa nasubukang tawagan; hindi ipinapalagay ang hours o direct desk location.",
+    "name": "Tanauan Disaster Response (CDRRMO) hotline",
+    "kind": "office",
+    "category": "Emergency hotline",
+    "description": "Hotline na nakalista sa official City Government of Tanauan website.",
+    "source": "https://tanauancity.gov.ph/"
+  },
+  {
+    "id": 127,
+    "lgu": "tn",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "reviewed": "2026-11-09",
+    "note": "Office hours mula sa indexed official department page; kumpirmahin muna. Hindi pa na-review ang buong service checklist, fees o processing time.",
+    "name": "Business Permits and Licensing Office (BPLO)",
+    "kind": "office",
+    "category": "Negosyo",
+    "description": "Opisyal na department page para sa business permits. Tingnan ang city Citizen’s Charter para sa buong requirements.",
+    "source": "https://tanauancity.gov.ph/government/departments/bplo",
+    "officeHours": "Lunes–Biyernes, 8:00 AM–5:00 PM ayon sa department page"
   }
 ]

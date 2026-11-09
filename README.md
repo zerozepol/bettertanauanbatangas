@@ -14,7 +14,7 @@ Six sections follow the [BetterGov LGU guide](https://lgu.bettergov.ph/GUIDE): o
 
 ## Data
 
-58 sourced listings, including 48 barangay name listings. See `src/data.json` for per-entry sources, review dates and caveats. Contact numbers have not been telephone-tested. Public source information was reviewed 8 November 2026. Barangay listings are names only, not verified contact listings. Historical procurement records do not establish delivery or completion. No current financial dataset or complete recent ordinance archive is claimed.
+64 sourced listings, including 48 barangay name listings. See `src/data.json` for per-entry sources, review dates and caveats. Contact numbers have not been telephone-tested. Sources reviewed 8–9 November 2026; individual review dates are preserved. Barangay listings are names only, not verified contact listings. Historical procurement records do not establish delivery or completion. Added BLGF FY2025 preliminary reported actuals with clear units and provenance; no FY2026 appropriation, audited spending or complete recent ordinance archive is claimed.
 
 ## Contribute
 
