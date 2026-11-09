@@ -22,7 +22,9 @@ Open an issue or PR with a public source for corrections. Add the source URL, `r
 
 ## Deployment
 
-Build output is `dist/`, suitable for static hosting. This repository has no hosting credentials or inherited Sites project ID. Publication is separate from repository creation. See `BETTERGOV-SUBMISSION.md` for a draft registration row. Do not claim Active while the public portal is not live.
+Live site: https://bettertanauanbatangas.vercel.app/
+
+Vercel builds the `main` branch with `node build.mjs` and publishes `dist/`. This repository contains no hosting credentials or inherited Sites project ID. See `BETTERGOV-SUBMISSION.md` for a draft registration row. Do not claim Active while the public portal is not live.
 
 ## Sources
 
